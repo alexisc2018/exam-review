@@ -1,0 +1,12 @@
+h1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+h4 {
+  text-transform: capitalize;
+  border-bottom: solid;
+  padding-bottom: 8px;
+}
+h2 {
+  border-bottom: solid;
+}
