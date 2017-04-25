@@ -36,3 +36,6 @@ body {
   padding: 5px;
 }
 }
+.border {
+  border: solid;
+}
